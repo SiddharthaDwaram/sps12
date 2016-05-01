@@ -1,0 +1,2 @@
+# sps12
+HANA_SPS12
