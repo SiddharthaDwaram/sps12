@@ -1,0 +1,3 @@
+service { 
+ "sps12.tinydb::myview" as "euro" keys generate local "ID";
+}
