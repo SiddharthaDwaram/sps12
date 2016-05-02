@@ -15,7 +15,7 @@ modules:
   # ------- dependency on DB  
   requires:
     - name: tinydb
-    - name: hdi-container_2#--changed this to_2
+    - name: hdi-container#--changed this to_2
   #---------------- exposes SERVICE URL to consumers
   provides:
     - name: tinyjs_api
